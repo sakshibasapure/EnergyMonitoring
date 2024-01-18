@@ -1,4 +1,4 @@
-# EnergyMonitoring
+# Energy Monitoring System with Modbus-to-MQTT Bridge (Internet Of Things)
 
 ## Project Description
 
